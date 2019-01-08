@@ -1,0 +1,33 @@
+{
+  "name": "arfrontend",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "AR Frontend",
+  "cordovaId": "",
+  "author": "Reinhart Fourie",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.4.4",
+    "vue-class-component": "^6.3.2",
+    "vue-property-decorator": "^7.2.0"
+  },
+  "devDependencies": {
+    "quasar-cli": "^0.17.0",
+    "strip-ansi": "=3.0.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.2.2"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ]
+}
